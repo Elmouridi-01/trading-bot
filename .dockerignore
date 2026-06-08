@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.env
+*.db
+*.pkl
+logs/
+node_modules/
+dashboard_v2/ui/node_modules/
+.git/
+*.md
+research/
+tests/

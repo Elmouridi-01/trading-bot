@@ -1,0 +1,2 @@
+timestamp,auc,accuracy,threshold,train_samples,positive_rate,symbols
+2026-05-24 01:22:41,0.5974,0.475,0.5576,0.0195,0.45,13747,3437,27.25,True,deployed
